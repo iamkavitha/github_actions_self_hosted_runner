@@ -1,4 +1,4 @@
-# java-example
+# java-example-updated-with-self-hosted-runner
 
 A minimal example with java, maven, junit, and maybe GitHub Actions
 
